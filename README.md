@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=200&section=header&text=Jay%20Obali%20Charles&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Front-End%20Developer%20%26%20Designer&descColor=94A3B8&descAlignY=58&descSize=20" />
+<h1>Jay · Obali Junior Charles</h1>
 
-</div>
+<p><em>Front-End Developer &amp; Designer &nbsp;·&nbsp; Uganda</em></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Building+clean+interfaces.;Crafting+thoughtful+code.;Solving+real+problems." alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-```
-  Building clean interfaces. Crafting thoughtful code. Solving real problems.
-```
+[![Email](https://img.shields.io/badge/Email-obalijcharles%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:obalijcharles@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Obali%20Charles-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obali-charles-505397341)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B256767934191-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+256767934191)
 
 </div>
 
@@ -21,7 +20,7 @@
 
 ## About
 
-I'm **Jay (Obali Junior Charles)** — a Front-End Web Developer & Designer based in Uganda, focused on building responsive, purposeful web experiences. I combine a designer's eye with a developer's precision, and I'm currently deepening my Python skills while advancing in full-stack development.
+I'm a Front-End Web Developer & Designer focused on building responsive, purposeful web experiences. I combine a designer's eye with a developer's precision, and I'm currently deepening my Python skills while advancing toward full-stack development.
 
 I'm a philosophical thinker who believes technology, when well-crafted, can genuinely improve lives. Every project I build is a step toward that.
 
@@ -55,8 +54,8 @@ I'm a philosophical thinker who believes technology, when well-crafted, can genu
 
 | Project | Description | Link |
 |---|---|---|
-| **Pyramid Generator** | Dynamic pyramid generation using JavaScript | [View →](https://github.com/ObaliCharles/pyramid-generator) |
-| **Photography Studio Price List** | Responsive HTML/CSS showcase of studio services | [View →](https://github.com/ObaliCharles/photo-studio) |
+| **CLI Calculator** | Dynamic Calculator using Python | [View →](https://github.com/ObaliCharles/pyramid-generator) |
+| **CLI Todo** | Working To-Do That enables adding, viewing and removing tasks | [View →](https://github.com/ObaliCharles/photo-studio) |
 
 </details>
 
@@ -67,13 +66,15 @@ I'm a philosophical thinker who believes technology, when well-crafted, can genu
 
 | Project | Description | Link |
 |---|---|---|
-| **DanceCode Website** | Responsive website for a creative agency | [View →](https://github.com/ObaliCharles/DanceCode) |
-| **Portfolio Simulator** | Python & Pandas project simulating stock portfolios | [View →](https://github.com/ObaliCharles/portfolio-simulator) |
+| **DanceCode Developers Agency Website** | Responsive website for a creative agency React, tailwind, vite, Node.js | [View →](https://github.com/ObaliCharles/DanceCode) |
+| **Kingsway Schools Website** | A fully responsive school website React, tailwind, vite, Node.js | [View →](https://github.com/ObaliCharles/portfolio-simulator) |
+| **CLI Banking System** | Python that enables creating and managing transactions  | [View →](https://github.com/ObaliCharles/portfolio-simulator) |
+| **E-commerce** | Next.js, React, tailwind, vite, node.js, mongo db  | [View →](https://github.com/ObaliCharles/portfolio-simulator) |
 
 </details>
 
 <details>
-<summary><strong>Advanced Projects</strong> &nbsp;— coming soon</summary>
+<summary><strong>Advanced Projects</strong> &nbsp;— Comming soon </summary>
 
 <br/>
 
@@ -89,23 +90,15 @@ I'm a philosophical thinker who believes technology, when well-crafted, can genu
 
 <div align="center">
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObaliCharles&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=3B82F6)
+<img src="https://github-readme-stats.vercel.app/api?username=ObaliCharles&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=1e293b&text_color=475569&icon_color=3b82f6&bg_color=ffffff" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObaliCharles&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8)
+<br/><br/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObaliCharles&layout=compact&hide_border=true&theme=default&title_color=1e293b&text_color=475569&bg_color=ffffff" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
----
-
-## Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-obalijcharles%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obalijcharles@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Obali%20Charles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obali-charles-505397341)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B256767934191-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+256767934191)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ObaliCharles&hide_border=true&stroke=e2e8f0&ring=3b82f6&fire=3b82f6&currStreakLabel=1e293b&sideLabels=475569&dates=94a3b8&currStreakNum=1e293b&sideNums=1e293b&background=ffffff" alt="GitHub Streak" />
 
 </div>
 
@@ -114,7 +107,5 @@ I'm a philosophical thinker who believes technology, when well-crafted, can genu
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=100&section=footer" />
-
+<sub>Built with care · Open to collaboration · Always learning</sub>
 </div>
