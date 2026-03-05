@@ -2,7 +2,7 @@
 
 <h1>Jay · Obali Junior Charles</h1>
 
-<p><em>Front-End Developer &amp; Designer &nbsp;·&nbsp; Uganda</em></p>
+<p><em>Junior Full Stack Developer &amp; Designer &nbsp;·&nbsp; Uganda</em></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Building+clean+interfaces.;Crafting+thoughtful+code.;Solving+real+problems." alt="Typing SVG" />
 
